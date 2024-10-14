@@ -1,4 +1,7 @@
-# COMP3123 Assignment 1: User & Employee API
+ # 101441399_COMP3123_Assignment1
+COMP3123 - Assignment 1
+
+Student ID: 101441399
 
 ## Overview
 A backend API built with **Node.js**, **Express**, and **MongoDB** to manage users and employees with full CRUD functionality.
